@@ -1,3 +1,0 @@
-Student; Charlie; 1200; 500
-Current; Diana; 2000; 2.0
-Student; Alice; 1500; 1000
